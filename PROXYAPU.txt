@@ -1,0 +1,1445 @@
+Azusa Pacific University Mail	Frank Dubisz <fdubisz@apu.edu>
+FTS MAIL
+circdept@apu.edu <circdept@apu.edu>	Tue, Jul 25, 2017 at 11:31 AM
+To: fdubisz@apu.edu
+
+
+
+
+                                 Forward Table
+
+
+
+
+    Token    IP        Service   Verify Valid     Valid     Database  Database
+             Address/H Level            Patron    Patron    Identifie Name
+             ost Name                   Types     Home Libs r
+1   SSnature *.nature. 0         5      0-9,23-25                     SS Nature
+             com
+2   ACsifi   scifinder 0         5      0-9,23-25                     AC CAS
+             .cas.org                                                 SiFinder
+3   POpdcnet *.pdcnet. 0         5      0-9,23-25                     PO -
+             org                                                      *.pdcnet.o
+                                                                      rg
+4   POpoies  *.philoso 0         5      0-9,23-25                     PO
+             phyonline                                                POIESIS
+             .org                                                     Philosophy
+                                                                       Online
+5   SGeb     *.sage-er 0         5      0-9,23-25                     SG Sage
+             eference.                                                Ebooks
+             com
+6   ATart    *.artstor 0         5      0-9,23-25                     AT ARTstor
+             .org
+7   BOeb1    *.britann 0         5      0-9,23-25                     BO
+             ica.com                                                  britannica
+                                                                      .com
+8   UCtlg    *.tlg.uci 0         5      0-9,23-25                     UC
+             .edu                                                     Thesaurus
+                                                                      Linguae
+                                                                      Graecae
+9   SSnl     *.longwoo 0         5      0-9,23-25                     SS-NL
+             ds.com                                                   Nursing
+                                                                      Leadership
+10  EJama    *.ama-ass 0         5      0-9,23-25                     EJ
+             n.org                                                    American
+                                                                      Medical
+                                                                      Ass.
+11  JSasc    *.jstor.o 0         5      0-9,23-25                     JS JSTOR
+             rg                                                       Arts &
+                                                                      Sciences
+                                                                      I-IV
+12  AP1      *.psycinf 0         5      0-9,23-25                     AP -
+             o.com                                                    psycinfo.c
+                                                                      om
+13  MHho     *accessme 0         5      0-9,23-25                     MH
+             dicine.co                                                Harrison's
+             m                                                         Online
+                                                                      DB no *
+14  CSllba   *.csa.com 0         5      0-9,23-25           llba      CS
+                                                                      Linguistic
+                                                                      s &
+                                                                      Language
+                                                                      Beha
+15  SStf1    *.metapre 0         5      0-9,23-25                     SS-TF -
+
+                                     Page 1
+             ss.com                                                   metapress.
+                                                                      com
+16  CQ2      *.cq.com  0         5      0-9,23-25                     CQ -
+                                                                      *.cq.com
+17  IFiw     *.informa 0         5      0-9,23-25                     IF
+             world.com                                                InformaWor
+                                                                      ld
+18  CSssa    *.csa.com 0         5      0-9,23-25           ssa       CS Social
+                                                                      Services
+                                                                      Abstracts
+19  CRcredo  *.credore 0         5      0-9,23-25                     CR Credo
+             ference.c                                                Reference
+             om
+20  CSsocio  *.csa.com 0         5      0-9,23-25           socioabs  CS
+                                                                      Sociologic
+                                                                      al
+                                                                      Abstracts
+21  CSpei    *.csa.com 0         5      0-9,23-25           pei       CS
+                                                                      Physical
+                                                                      Education
+                                                                      Index
+22  PQabig   proquest. 0         5      0-9,23-25           REJTPTMmS PQ
+             umi.com                                        U5UPTAmVk ABI/INFORM
+                                                            VSPTI      Global
+23  EHpfi    search.eb 0         5      0-9,23-25           =pfi-live EH new
+             scohost.c                                                periodical
+             om                                                        finder
+24  OTcpi    199.45.14 0         5      0-9,23-25                     OT
+             5.180                                                    Christian
+                                                                      Periodical
+                                                                       Index
+25  IE1      *.ieeecom 0         5      0-9,23-25                     IE -
+             putersoci                                                doi/opac.i
+             ety.org                                                  eeecomput.
+                                                                      ..org
+26  EHlr2x   resolver. 0         5      0-9,23-25                     EH new
+             ebscohost                                                link
+             .comx                                                    resolver
+                                                                      - testing
+27  CMacm    *.acm.org 0         5      0-9                           CM ACM
+                                                                      Digital
+                                                                      Library
+28  ABahl    *.abc-cli 0         5      0-9,23-25                     AB
+             o.com                                                    America:
+                                                                      History
+                                                                      and Life
+29  CSpilots *.csa.com 0         5      0-9,23-25           pilots    CS PILOTS
+30  OUanb    *.anb.org 0         5      0-9,23-25                     OU
+                                                                      American
+                                                                      National
+                                                                      Biography
+31  WI1      212.49.21 0         5      0-9,23-25                     WI -
+             8.203                                                    212.49.218
+                                                                      .203
+32  WIwb     *.wiley.c 0         5      0-9,23-25                     WI
+             om                                                       Wiley-Blac
+                                                                      kwell
+33  EHftf    search.eb 0         n      0-9,23-25           =ftf-live EH new FTF
+
+                                     Page 2
+             scohost.c
+             om
+34  WI3      *.thecoch 0         5      0-9,23-25                     WI -
+             ranelibra                                                thecochran
+             ry.com                                                   elibrary.c
+                                                                      om
+35  CQpac    *.cqpress 0         5      0-9,23-25           cqpac     CQ Public
+             .com                                                     Affairs
+                                                                      Collection
+36  WI4      *.update- 0         5      0-9,23-25                     WI -
+             software.                                                update-sof
+             com                                                      tware.com
+37  EH8gh    search.eb 0         5      0-9,23-25           8gh       EH
+             scohost.c                                                GreenFILE
+             om
+38  WI2      212.49.21 0         5      0-9,23-25                     WI -
+             8.200                                                    212-49.218
+                                                                      .200
+39  EHufh    search.eb 0         5      0-9,23-25           ufh       EH
+             scohost.c                                                Communicat
+             om                                                       ion &
+                                                                      Mass Media
+40  CO1      *.college 0         5      0-9,23-25                     CO -
+             catalogs.                                                collegecat
+             org                                                      alogs.org
+41  COcs     *.college 0         5      0-9,23-25                     CO
+             source.or                                                College
+             g                                                        Source
+42  CIca     *.cios.or 0         5      0-9,23-25                     CI
+             g                                                        ComAbstrac
+                                                                      ts
+43  CQresear *.cqpress 0         5      0-9,23-25           cqresearc CQ
+             .com                                           her       Researcher
+44  BOeb     *.eb.com  0         5      0-9,23-25                     BO
+                                                                      Encycloped
+                                                                      ia
+                                                                      Britanica
+45  EBeb     *.ebrary. 0         5      0-9,23-25                     EB Ebrary
+             com
+46  CS1      *.csa3.co 0         5      0-9,23-25                     CS -
+             m                                                        csa3.com
+47  EHhia    search.eb 0         5      0-9,23-25           hia       EH
+             scohost.c                                                Historical
+             om                                                        Abstracts
+48  AS1      *.alexand 0         5      0-9,23-25                     AS -
+             erstreet.                                                alexanders
+             com                                                      treet.com
+49  EIef     *.emerald 0         5      0-9,23-25                     EI
+             insight.c                                                Emerald
+             om                                                       Fulltext
+50  MOmo     *.fisonli 0         5      0-9,23-25                     MO
+             ne.com                                                   Mergent
+                                                                      Online
+51  EHlxa    search.eb 0         5      0-9,23-25           lxh       EH LISTA
+             scohost.c
+             om
+52  EB1      216.200.6 0         5      0-9,23-25                     EB -
+             2.206                                                    216.200.62
+
+                                     Page 3
+                                                                      .206
+53  SEtcr    *.tcrecor 0         5      0-9,23-25                     SE-Teacher
+             d.org                                                    s College
+                                                                      Record
+54  SEi      *.ingenta 0         5      0-9,23-25                     SE-Ingenta
+             .com
+55  EHejs1   ejournals 0         5      0-9,23-25                     EH
+             .ebsco.co                                                Electronic
+             m                                                         Journals
+                                                                      Servi 1
+56  FS5      *.edrs.co 0         5      0-9,23-25                     FS -
+             m                                                        edrs.com
+57  FS6      *.purl.or 0         5      0-9,23-25                     FS -
+             g                                                        purl.org
+58  FS4      63.136.1. 0         5      0-9,23-25                     FS -
+             22                                                       63.136.1.2
+                                                                      2
+59  FS3      63.136.1. 0         5      0-9,23-25                     FS -
+             23                                                       63.136.1.2
+                                                                      3
+60  ESsd     *.science 0         5      0-9,23-25                     SS-SD
+             direct.co                                                Science
+             m                                                        Direct
+61  FS2      66.77.43. 0         5      0-9,23-25                     FS -
+             9                                                        66.77.43.9
+62  FS1      66.77.30. 0         5      0-9,23-25                     FS -
+             29                                                       66.77.30.2
+                                                                      9
+63  EHrfh    search.eb 0         5      0-9,23-25           rfh       EH ATLA
+             scohost.c                                                Religion
+             om                                                       Database
+64  EHkah    search.eb 0         5      0-9,23-25           kah       EH MLA
+             scohost.c                                                Dir of
+             om                                                       Periodical
+                                                                      s
+65  EHser    search.eb 0         5      0-9,23-25           ser       EH
+             scohost.c                                                Serials
+             om                                                       Directory
+66  OUgart   *.grovear 0         5      0-9,23-25                     OU Grove
+             t.com                                                    Art
+67  OU1      bal-ms.br 0         5      0-9,23-25                     OU -
+             idgeman.c                                                bal-ms.bri
+             o.uk                                                     dgeman.co.
+                                                                      uk
+68  OUgmusic *.grovemu 0         5      0-9,23-25                     OU Grove
+             sic.com                                                  Music
+69  FSbb     *.oclc.or 0         5      0-9,23-25           BasicBIOS FS
+             g                                              IS        BasicBIOSI
+                                                                      S
+70  FSahsear *.oclc.or 0         5      0-9,23-25           AHSearch  FS
+             g                                                        AHSearch
+71  FSapi    *.oclc.or 0         5      0-9,23-25           AltPressI FS
+             g                                              ndex      Alternativ
+                                                                      e Press
+                                                                      Index
+72  FSagrico *.oclc.or 0         5      0-9,23-25           AGRICOLA  FS
+             g                                                        AGRICOLA
+73  ELebook  *.eblib.c 0         5      0-9,23-25                     EL -
+
+                                     Page 4
+             om                                                       Ebook
+                                                                      Library
+74  FSapia   *.oclc.or 0         5      0-9,23-25           AltPressI FS
+             g                                              ndexArchi Alternativ
+                                                            ve        e Press
+                                                                      Index Arc
+75  EHbwh    search.eb 0         5      0-9,23-25           bwh       EH
+             scohost.c                                                Regional
+             om                                                       Business
+                                                                      News
+76  FSaf     *.oclc.or 0         5      0-9,23-25           ArticleFi FS
+             g                                              rst       ArticleFir
+                                                                      st
+77  FSbd     *.oclc.or 0         5      0-9,23-25           BioDigest FS
+             g                                                        Biolodgy
+                                                                      Digest
+78  EHmah    search.eb 0         5      0-9,23-25           mah       EH Music
+             scohost.c                                                Index
+             om                                                       Online
+79  FSbin    *.oclc.or 0         5      0-9,23-25           Bus_Indus FS
+             g                                              try       Business
+                                                                      &
+                                                                      Industry
+                                                                      News
+80  FSbmanag *.oclc.or 0         5      0-9,23-25           BusManage FS
+             g                                              ment      Business
+                                                                      Management
+81  FSbdatel *.oclc.or 0         5      0-9,23-25           BusDateli FS
+             g                                              ne        Business
+                                                                      Dateline
+82  FSborgan *.oclc.or 0         5      0-9,23-25           BusinessO FS
+             g                                              rgs       Business
+                                                                      Organizati
+                                                                      ons
+83  FScap    *.oclc.or 0         5      0-9,23-25           ClasePeri FS Clase
+             g                                              odica     &
+                                                                      Periodica
+84  FSci     *.oclc.or 0         5      0-9,23-25           ConsumerI FS
+             g                                              ndex      Consumer
+                                                                      Index
+85  FScwi    *.oclc.or 0         5      0-9,23-25           CWI       FS
+             g                                                        Contempora
+                                                                      ry
+                                                                      Women's
+                                                                      Issues
+86  FSdcs    *.oclc.or 0         5      0-9,23-25           Disclosur FS
+             g                                              e         Disclosure
+
+                                                                      Corporate
+                                                                      Snapsh
+87  FSeco    *.oclc.or 0         5      0-9,23-25           ECO       FS
+             g                                                        Electronic
+
+                                                                      Collection
+                                                                      s Onli
+88  FSda     *.oclc.or 0         5      0-9,23-25           Dissertat FS
+             g                                              ions      Dissertati
+                                                                      on
+
+                                     Page 5
+                                                                      Abstracts
+89  FSpapers *.oclc.or 0         5      0-9,23-25           PapersFir FS
+             g                                              st        PapersFirs
+                                                                      t
+90  FSel     *.oclc.or 0         5      0-9,23-25           EconLit   FS
+             g                                                        Economic
+                                                                      Literature
+91  FSeric   *.oclc.or 0         5      0-9,23-25           ERIC      FS ERIC
+             g
+92  FSfs     *.oclc.or 0         5      0-9,23-25           FactSearc FS Fact
+             g                                              h         Search
+93  FSgeo    *.oclc.or 0         5      0-9,23-25           GEOBASE   FS GEOBASE
+             g
+94  FSgpo    *.oclc.or 0         5      0-9,23-25           GPO       FS US
+             g                                                        Government
+
+                                                                      Publicatio
+                                                                      ns
+95  FSmrd    *.oclc.or 0         5      0-9,23-25           MediaRevD FS Media
+             g                                              igest     Review
+                                                                      Digest
+96  FSna     *.oclc.or 0         5      0-9,23-25           NewsAbs   FS
+             g                                                        Newspaper
+                                                                      Abstracts
+97  FSmedlin *.oclc.or 0         5      0-9,23-25           MEDLINE   FS MEDLINE
+             g
+98  FSebooks *.oclc.or 0         5      0-9,23-25           ebooks    FS OCLC
+             g                                                        Electronic
+                                                                       Books
+99  FSprocee *.oclc.or 0         5      0-9,23-25           Proceedin FS
+             g                                              gs        Proceeding
+                                                                      sFirst
+100 FSsirs   *.oclc.or 0         5      0-9,23-25           SIRSResea FS SIRS
+             g                                              rcher     Researcher
+101 FSwa     *.oclc.or 0         5      0-9,23-25           WorldAlma FS World
+             g                                              nac       Almanac
+102 FSwc     *.oclc.or 0         5      0-9,23-25           WorldCat  FS
+             g                                                        WorldCat
+103 FSws     *.oclc.or 0         5      0-9,23-25           Worldscop FS
+             g                                              e         Worldscope
+104 FSbip    *.oclc.or 0         5      0-9,23-25           BooksInPr FS Books
+             g                                              int       In Print
+105 CHlion   lion.chad 0         5      0-9,23-25                     CH
+             wyck.com                                                 Literature
+                                                                       Online x?
+106 OThapi   *.ovid.co 0         5      0-9,23-25                     OT HAPI
+             m
+107 EHsih    search.eb 0         5      0-9,23-25           sih       EH
+             scohost.c                                                SocINDEX
+             om                                                       with Full
+                                                                      Text
+108 LNlna    *.lexis-n 0         5      0-9,23-25                     LN
+             exis.com                                                 LexisNexis
+                                                                       Academic
+109 SVslink  *.springe 0         5      0-9,23-25                     SV
+             r.com                                                    SpringerLi
+                                                                      nk thru
+                                                                      SCELC
+
+                                     Page 6
+110 SV1      *.lwwonli 0         5      0-9,23-25                     SV -
+             ne.com                                                   lwwonline.
+                                                                      com
+111 SV2      *.springe 0         5      0-9,23-25                     SV -
+             rlink.com                                                springerli
+                                                                      nk.com
+112 LN1      *.lexis.c 0         5      0-9,23-25                     LN -
+             om                                                       lexis.com
+113 LN3      *.lexisne 0         5      0-9,23-25                     LN -
+             xis.com                                                  lexisnexis
+                                                                      .com
+114 xLN4     *.lexison 0         5      0-9,23-25                     LN -
+             e.comx                                                   lexisone.c
+                                                                      om
+115 xLN5     *.lexisul 0         5      0-9,23-25                     LN -
+             timaterew                                                lexisultim
+             ards.comx                                                aterewards
+                                                                      .com
+116 LN2      *.nexis.c 0         5      0-9,23-25                     LN -
+             om                                                       nexis.com
+117 xLN7     *.reed-el 0         5      0-9,23-25                     LN -
+             sevier.co                                                reed-elsev
+             mx                                                       ier.com
+118 WWartig  vnweb.hww 0         5      0-9,23-25           ARTIG     WW Art
+             ilsonweb.                                                Museum
+             com                                                      Image
+                                                                      Gallery
+119 NLnl     *.netlibr 0         5      0-9,23-25                     NL
+             ary.com                                                  NetLibrary
+                                                                       (eBooks)
+120 NL1      *.akamai. 0         5      0-9,23-25                     NL -
+             net                                                      akamai.net
+121 PQ1      *.proques 0         5      0-9,23-25                     PQ -
+             t.com                                                    proquest.c
+                                                                      om
+122 OUjrnls  *oxfordjo 0         5      0-9,23-25                     OU
+             urnals.or                                                Journals
+             g
+123 OUobo    *.oxfordb 0         5      0-9,23-25                     OU Oxford
+             ibliograp                                                Bibliograp
+             hiesonlin                                                hiesOnline
+             e.com
+124 OUoed    *.oed.com 0         5      0-9,23-25                     OU Oxford
+                                                                      English
+                                                                      Dictionary
+125 ILpm     *.nlx.com 0         5      0-9,23-25                     IL Past
+                                                                      Masters
+126 PQdiss   *.umi.com 0         5      0-9,23-25           dissertat PQ
+                                                            ions      Digital
+                                                                      Dissertati
+                                                                      ons
+127 CQscc    *.cqpress 0         5      0-9,23-25           scc       CQ
+             .com                                                     Supreme
+                                                                      Court
+                                                                      Collection
+128 EHpvh    search.eb 0         5      0-9,23-25           pvh       EH
+             scohost.c                                                PsycCritiq
+             om                                                       ues to APA
+
+                                     Page 7
+129 PMpmsc   muse.jhu. 0         5      0-9,23-25                     PM
+             edu                                                      Project
+                                                                      Muse
+                                                                      Standard
+                                                                      Colle
+130 EHpsyh   search.eb 0         5      0-9,23-25           psyh      EH
+             scohost.c                                                PsycINFO
+             om
+131 RCrand   *.rand.or 0         5      0-9,23-25                     RC RAND
+             g                                                        California
+132 SV3      *.wkap.nl 0         5      0-9,23-25                     SV -
+                                                                      wkap.nl
+133 NBsb     *.newsban 0         5      0-9,23-25                     NB
+             k.com                                                    StatBank
+134 x        *.stat-us 0         5      0-9,23-25                     xES
+             a.govx                                                   STAT-USA
+135 SAocp    *.oldcity 0         5      0-9,23-25                     SA OCP
+             publishin                                                Woman's
+             g.com                                                    Art
+                                                                      Journal
+136 OUoart   *.oxforda 0         5      0-9,23-25                     OU Oxford
+             rtonline.                                                Art
+             com
+137 PQrelig  proquest. 0         5      0-9,23-25           REJTPWNmM PQ
+             umi.com                                        yZJTlQ9MC ProQuest
+                                                            ZWRVI9Mg  Religion
+138 OUomusic *.oxfordm 0         5      0-9,23-25                     OU Oxford
+             usiconlin                                                Music
+             e.com
+139 EHbqh    search.eb 0         5      0-9,23-25           bqh       EH Book
+             scohost.c                                                Review
+             om                                                       Digest
+140 PQabiti  proquest. 0         5      0-9,23-25           REJTPTE2Y PQ
+             umi.com                                        mMmSU5UPT ABI/INFORM
+                                                            AmVkVSPTI  Trade &
+                                                                      Industry
+141 PQabid   proquest. 0         5      0-9,23-25           REJTPTE3M PQ
+             umi.com                                        jEmSU5UPT ABI/INFORM
+                                                            AmVkVSPTI  Dateline
+142 EHsph    search.eb 0         5      0-9,23-25           sph       EH SPORT
+             scohost.c                                                Discus
+             om
+143 OUorop   *.oxfordr 0         5      0-9,23-25                     OU
+             eference.                                                Reference
+             com                                                      Online -
+                                                                      Premium
+144 PQrl     proquest. 0         5      0-9,23-25           REJTPUc2K PQ
+             umi.com                                        zE5ZisxYT Research
+                                                            ArMWExKzF Library
+                                                            hMis
+145 EHvah    search.eb 0         5      0-9,23-25           vah       EH
+             scohost.c                                                Catholic
+             om                                                       Periodical
+                                                                       Lit
+146 EHbsh    search.eb 0         5      0-9,23-25           bsh       EH
+             scohost.c                                                Business
+             om                                                       Source
+                                                                      Elite
+
+                                     Page 8
+147 EHawh    search.eb 0         5      0-9,23-25           awh       EH
+             scohost.c                                                Alt-Health
+             om                                                        Watch
+148 EHrih    search.eb 0         5      0-9,23-25           rih       EH RILM
+             scohost.c
+             om
+149 EHpdh    search.eb 0         5      0-9,23-25           pdh       EH
+             scohost.c                                                PsycARTICL
+             om                                                       ES
+150 RTrta    rtabstrac 0         5      0-9,23-25                     RT
+             ts.org                                                   Religious
+                                                                      &
+                                                                      Theologica
+                                                                      l Abs
+151 EHprh    search.eb 0         5      0-9,23-25           prh       EH
+             scohost.c                                                Primary
+             om                                                       Search
+152 EHoah    search.eb 0         5      0-9,23-25           oah       EH Old
+             scohost.c                                                Testament
+             om                                                       Abstracts
+153 EHrvh    search.eb 0         5      0-9,23-25           rvh       EH New
+             scohost.c                                                Testament
+             om                                                       Abstracts
+154 EHnfh    search.eb 0         5      0-9,23-25           nfh       EH
+             scohost.c                                                Newspaper
+             om                                                       Source
+155 EHmzh    search.eb 0         5      0-9,23-25           mzh       EH MLA
+             scohost.c                                                Int
+             om                                                       Bibliograp
+                                                                      hy
+156 EHmth    search.eb 0         5      0-9,23-25           mth       EH
+             scohost.c                                                Military
+             om                                                       Library
+157 SSbs     *.blackwe 0         5      0-9,23-25                     SS-BS
+             ll-synerg                                                Blackwell
+             y.com                                                    Synergy
+158 EHulh    search.eb 0         5      0-9,23-25           ulh       EH MAS
+             scohost.c                                                Ultra -
+             om                                                       School
+                                                                      Edtn
+159 EHiqh    search.eb 0         5      0-9,23-25           iqh       EH Int &
+             scohost.c                                                Per
+             om                                                       Computing
+                                                                      Abs
+160 EHjph    search.eb 0         5      0-9,23-25           jph       EH Index
+             scohost.c                                                to Jewish
+             om                                                       Per Lit
+161 EHhch    search.eb 0         5      0-9,23-25           hch       EH Health
+             scohost.c                                                Source:
+             om                                                       Nursing
+162 SPna     *.standar 0         5      0-9,23-25                     SP
+             dandpoors                                                NetAdvanta
+             .com                                                     ge
+163 EHfunk   search.eb 0         5      0-9,23-25           funk      EH
+             scohost.c                                                Funk&Wagna
+             om                                                       ll's
+                                                                      World Enc
+164 SSpj     *.palgrav 0         5      0-9,23-25                     SS-PJ
+
+                                     Page 9
+             e-journal                                                Palgrave
+             s.com                                                    Journals
+165 EHeric   search.eb 0         5      0-9,23-25           eric      EH ERIC
+             scohost.c
+             om
+166 SEncte   *.ncte.or 0         5      0-9,23-25                     SE-College
+             g
+                                                                      Compositio
+                                                                      n & Commu
+167 SEbep    *.ethicsa 0         5      0-9,23-25                     SE-Bio
+             ndmedicin                                                Ethics
+             e.com                                                    Press
+168 EJbsa2   *.botany. 0         5      0-9,23-25                     EJ
+             org                                                      Botanical
+                                                                      Society
+                                                                      of Amer 2
+169 EHmain   search.eb 0         5      0-9,23-25           afh       EH Main
+             scohost.c                                                EBSCOhost
+             om                                                       Databases
+170 SEsm     springerl 0         5      0-9,23-25                     SE-SM
+             ink.com                                                  SpringerLi
+                                                                      nk Media
+171 EHani    search.eb 0         5      0-9,23-25           ani       EH EBSCO
+             scohost.c                                                Animals
+             om
+172 EHaph    search.eb 0         5      0-9,23-25           aph       EH
+             scohost.c                                                Academic
+             om                                                       Search
+                                                                      Premier
+                                                                      ok?
+173 SPna1    mi.compus 0         5      0-9,23-25                     SP -
+             tat.com                                                  mi.compust
+                                                                      at.com
+174 SEjop    *.psychia 0         5      0-9,23-25                     SE-Journal
+             tryonline                                                 of
+             .org                                                     Psychiatry
+175 EJbsa1   *.amjbot. 0         5      0-9,23-25                     EJ
+             org                                                      Botanical
+                                                                      Society
+                                                                      of Amer 1
+176 WWbib    vnweb.hww 0         5      0-9,23-25           BIB       WW
+             ilsonweb.                                                Bibliograp
+             com                                                      hic Index
+                                                                      Plus
+177 WWbusft  vnweb.hww 0         5      0-9,23-25           BUSFT     WW
+             ilsonweb.                                                Business
+             com                                                      Full Text
+178 WWeduft  vnweb.hww 0         5      0-9,23-25           EDUFT     WW
+             ilsonweb.                                                Education
+             com                                                      Full Text
+179 SEcjo2   *.cambrid 0         5      0-9,23-25                     SE-CJO
+             ge.org                                                   *cambrdige
+                                                                      .org
+180 EHphl    search.eb 0         5      0-9,23-25           phl       EH
+             scohost.c                                                Philospher
+             om                                                       's Index
+181 SMlit2   salempres 0         5      0-9,23-25                     SM - no
+             s.com                                                    www for
+
+                                    Page 10
+                                                                      some links
+182 EJacp2   *.acpjc.o 0         5      0-9,23-25                     EJ ACP
+             rg                                                       Journal
+                                                                      Club
+183 WWgsft   vnweb.hww 0         5      0-9,23-25           GSFT      WW
+             ilsonweb.                                                General
+             com                                                      Science
+                                                                      Full Text
+184 WWhumft  vnweb.hww 0         5      0-9,23-25           HUMFT     WW
+             ilsonweb.                                                Humanities
+             com                                                       Full Text
+185 SSsaga   *.sagamor 0         5      0-9,23-25                     SS-Sagamor
+             epub.com                                                 e
+                                                                      Publishing
+186 SSne     *.neurolo 0         5      0-9,23-25                     SS-NE
+             gy.org                                                   Neurology
+187 SShc     *.history 0         5      0-9,23-25                     SS-HC
+             cooperati                                                History
+             ve.org                                                   Cooperativ
+                                                                      e
+188 SSnejm   *.nejm.or 0         5      0-9,23-25                     SS-NEJM
+             g                                                        New
+                                                                      England
+                                                                      Journal of
+189 SSbmj2   *.bmjjour 0         5      0-9,23-25                     SS-BMJ
+             nals.com                                                 bmjjournal
+                                                                      s.com
+190 SSmla    *.mlajour 0         5      0-9,23-25                     SS-MLA
+             nals.org                                                 Modern
+                                                                      Language
+                                                                      Associa
+191 WWomnift vnweb.hww 0         5      0-9,23-25           OMNIFT    WW
+             ilsonweb.                                                OmniFile
+             com                                                      Full Text
+                                                                      Mega
+192 WWrdgft  vnweb.hww 0         5      0-9,23-25           RDGFT     WW
+             ilsonweb.                                                Readers'
+             com                                                      Guide
+                                                                      Full Text
+193 WWssft   vnweb.hww 0         5      0-9,23-25           SSFT      WW Social
+             ilsonweb.                                                Sciences
+             com                                                      Full Text
+194 SShk     *.humanki 0         5      0-9,23-25                     SS-HK
+             netics.co                                                HumanKinet
+             m                                                        ics
+195 SSih     informahe 0         5      0-9,23-25                     SS-IH
+             althcare.                                                Informa
+             com                                                      Healthcare
+196 APapa    *.apa.org 0         5      0-9,23-25                     AP
+                                                                      PsyCritiqu
+                                                                      es
+197 TSwos5   *.isiknow 0         5      0-9,23-25                     TS
+             ledge.com                                                *.isiknowl
+                                                                      edge.com
+198 TS1      www.isikn 0         5      0-9,23-25                     TS -
+             owledge.c                                                www.isikno
+             omx                                                      wledge.com
+199 ACacs    *.acs.org 0         5      0-9,23-25                     AC
+
+                                    Page 11
+                                                                      American
+                                                                      Chemical
+                                                                      Associati
+200 SStca    charlesto 0         5      0-9,23-25                     SS-TCA
+             nco.com                                                  The
+                                                                      Charleston
+                                                                       Advisor
+201 SSjop    *.journal 0         5      0-9,23-25                     SS-JOP
+             ofparasit                                                Jrnl of
+             ology.org                                                Parasitolo
+                                                                      gy
+202 SSjospt  *.jospt.o 0         5      0-9,23-25                     SS-JOSPT
+             rg                                                       Orthopaedi
+                                                                      c Sports
+                                                                      PT
+203 TFhbcp   *.hbcpnet 0         5      0-9,23-25                     TF
+             base.com                                                 Handbook
+                                                                      of Chem &
+                                                                      Physics
+204 TF2      *.crcnetb 0         5      0-9,23-25                     TF -
+             ase.com                                                  crcnetbase
+                                                                      .com
+205 TGlrc    find.gale 0         5      0-9,23-25           LitRC     TG
+             group.com                                                Literature
+                                                                       Resource
+                                                                      Center
+206 SSbmj1   *.bmj.com 0         5      0-9,23-25                     SS-BMJ
+                                                                      British
+                                                                      Medical
+                                                                      Journal
+207 TGlitf   find.gale 0         5      0-9,23-25           LITF      TG
+             group.com                                                LitFinder
+208 EH1      search.ep 0         5      0-9,23-25                     EH -
+             net.com                                                  search.epn
+                                                                      et.com
+209 TGhwrc   find.gale 0         5      0-9,23-25           HWRC      TG Health
+             group.com                                                &
+                                                                      Wellness
+                                                                      Resource
+210 SStf2    *.tandfon 0         5      0-9,23-25                     SS-TF -
+             line.com                                                 tandfonlin
+                                                                      e
+211 TGgvrl   find.gale 0         5      0-9,23-25           GVRL      TG Gale
+             group.com                                                Virtual
+                                                                      Reference
+                                                                      Lib
+212 OCwco    *.worldca 0         5      0-9,23-25                     OC OCLC
+             t.org                                                    WorldCat.o
+                                                                      rg
+213 TF1      *.chemnet 0         5      0-9,23-25                     TF -
+             base.com                                                 chemnetbas
+                                                                      e.com
+214 SGjo     *.sagepub 0         5      0-9,23-25                     SG Sage
+             .com                                                     Journals
+                                                                      Online
+215 EJacp1   *.annals. 0         5      0-9,23-25                     EJ ACP
+             org                                                      Annals of
+                                                                      Internal
+
+                                    Page 12
+                                                                      Medi
+216 EHpxh    search.eb 0         5      0-9,23-25           pxh       EH
+             scohost.c                                                PsycExtra
+             om
+217 EHcompsy search.eb 0         5      0-9,23-25           conpsy    EH
+             scohost.c                                                PsycCritiq
+             om                                                       ues to EH
+                                                                      to APA
+218 SSada    *.diabete 0         5      0-9,23-25                     SS-ADA
+             sjournals                                                Diabetes
+             .org                                                     Care
+219 SEcjo    journals. 0         5      0-9,23-25                     SE-CJO
+             cambridge                                                Cambridge
+             .org                                                     Journals
+                                                                      Onli
+220 SEgp     *.extenza 0         5      0-9,23-25                     SE-GP
+             -eps.com                                                 Guilford
+                                                                      Publicatio
+                                                                      ns
+221 SEgp1    *.atypon- 0         5      0-9,23-25                     SE-GP -
+             link.com                                                 atypon-lin
+                                                                      k.com
+222 SSgs     *.geronto 0         5      0-9,23-25                     SS-GS
+             logyjourn                                                Gerontolog
+             als.org                                                  ical
+                                                                      Society
+223 XRcr     *.crossre 0         5      0-9,23-25                     XR
+             f.org                                                    Crossref
+224 SEic     *.ingenta 0         5      0-9,23-25                     SE-Ingenta
+             connect.c                                                 Connect
+             om                                                       (auth)
+225 SAseab   *.rochest 0         5      0-9,23-25                     SA-SEAB
+             er.edu                                                   Soc Exp
+                                                                      Anal
+                                                                      Behavior
+226 IEcsd    *computer 0         5      0-9,23-25                     IE Comp
+             .org                                                     Society
+                                                                      Digital
+                                                                      DBno*
+227 EHmnh    search.eb 0         5      0-9,23-25           mnh       EH
+             scohost.c                                                MEDLINE FT
+             om
+228 EH33h    search.eb 0         5      0-9,23-25           33h       EH
+             scohost.c                                                Christian
+             om                                                       Periodical
+                                                                       Index
+229 ETinspec *.theiet. 0         5      0-9,23-25                     ET Inspec
+             org
+230 AScml    *.classic 0         5      0-9,23-25                     AS
+             al.com                                                   Classical
+                                                                      Music
+                                                                      Library
+231 CSmain   *.csa.com 0         5      0-9,23-25                     CS Main
+                                                                      Cambridge
+                                                                      Scientific
+232 TG1      *.galegro 0         5      0-9,23-25                     TG -
+             up.com                                                   *.galegrou
+                                                                      p.com
+
+                                    Page 13
+233 TSwok    isiknowle 0         5      0-9,23-25                     TS Web of
+             dge.comx                                                 Knowledge
+234 XRdoi    *.doi.org 0         5      0-9,23-25                     XR -
+                                                                      doi.org
+235 WWany    *.hwwilso 0         5      0-9,23-25                     WW Any
+             nweb.com                                                 WilsonWeb
+                                                                      Databases
+236 FSany    *.oclc.or 0         5      0-9,23-25                     FS Any
+             g                                                        FirstSearc
+                                                                      h
+                                                                      Databases
+237 PQany    *.umi.com 0         5      0-9,23-25                     PQ Any
+                                                                      ProQuest
+                                                                      Databases
+238 CHiimpft *.chadwyc 0         5      0-9,23-25                     CH
+             k.com                                                    Internatio
+                                                                      nl Index
+                                                                      to Music
+239 EJaa1    *asiatica 0         5      0-9,23-25                     EJ
+             .org                                                     Asiatica
+                                                                      Ass 1
+240 CQ1      *.cqpress 0         5      0-9,23-25                     CQ -
+             .com                                                     *.cqpress.
+                                                                      com
+241 ACsifi2  *.cas.org 0         5      0-9,23-25                     AC CAS
+                                                                      SiFinder
+242 SMlit    *.salempr 0         5      0-9,23-25                     SM -
+             ess.com                                                  Salem
+                                                                      Press -
+                                                                      Literature
+243 AR       *annualre 0         5      0-9,23-25                     AR Annual
+             views.org                                                Reviews
+                                                                      Online
+244 EHhxh    search.eb 0         5      0-9,23-25           hxh       EH Health
+             scohost.c                                                Source -
+             om                                                       Consumer
+                                                                      Ed
+245 TSwos1   webofknow 0         5      0-9,23-25                     TS Web of
+             ledge.com                                                Science
+246 TSwos2   www.webof 0         5      0-9,23-25                     TS -
+             knowledge                                                www.isikno
+             .comx                                                    wledge.com
+247 TSwos3   apps.webo 0         5      0-9,23-25                     TS -
+             fknowledg                                                www.isikno
+             e.comx                                                   wledge.com
+248 TSwos4   *.webofkn 0         5      0-9,23-25                     TS Web of
+             owledge.c                                                Science
+             om
+249 TRcp     *.riag.co 0         5      0-9,23-25                     TR
+             m                                                        Thomson
+                                                                      Reuters
+                                                                      Checkpoint
+250 EHami    search.eb 0         5      0-9,23-25           ami       EH Art
+             scohost.c                                                Museum
+             om                                                       Image
+                                                                      Gallery-WW
+251 TR1      *.thomson 0         5      0-9,23-25                     TR
+             .com                                                     thomson.co
+
+                                    Page 14
+                                                                      m
+252 TR2      ria.thoms 0         5      0-9,23-25                     TR
+             onreuters                                                ria.thomso
+             .com                                                     nreuters.c
+                                                                      om
+253 SEgp2    guilfordj 0         5      0-9,23-25                     SE-GP
+             ournals.c                                                guilfordjo
+             om                                                       urnals.com
+254 EHssf    search.eb 0         5      0-9,23-25           ssf       EH WW
+             scohost.c                                                Social
+             om                                                       Sciences
+                                                                      FT
+255 EHrgs    search.eb 0         5      0-9,23-25           rgs       EH WW
+             scohost.c                                                Readers'
+             om                                                       Guide
+                                                                      Full Text
+256 EHhft    search.eb 0         5      0-9,23-25           hft       EH WW
+             scohost.c                                                Humanities
+             om                                                        Full Text
+257 EHgft    search.eb 0         5      0-9,23-25           gft       EH WW
+             scohost.c                                                General
+             om                                                       Science FT
+258 EHeft    search.eb 0         5      0-9,23-25           eft       EH WW
+             scohost.c                                                Education
+             om                                                       Full Text
+259 EHofm    search.eb 0         5      0-9,23-25           ofm       EH WW
+             scohost.c                                                OmniFile
+             om                                                       Full Text
+                                                                      Mega
+260 EHbft    search.eb 0         5      0-9,23-25           bft       EH WW
+             scohost.c                                                Business
+             om                                                       Full Text
+261 ASasp    *.aspreso 0         5      0-9,23-25                     AS ASP
+             lver.com                                                 Resolver
+                                                                      (from EH)
+262 EHnlabk  search.eb 0         5      0-9,23-25           nlabk     EH
+             scohost.c                                                NetLibrary
+             om                                                        ebooks
+                                                                      (nlabk)
+263 EHnlred  search.eb 0         5      0-9,23-25           NLRedirec EH
+             scohost.c                                      t         NetLibrary
+             om                                                        redirect
+264 EHhev    search.eb 0         5      0-9,23-25           hev       EH
+             scohost.c                                                European
+             om                                                       Views of
+                                                                      the Ameri
+265 EHrgm    search.eb 0         5      0-9,23-25           rgm       EH
+             scohost.c                                                Readers'
+             om                                                       Guide FT
+                                                                      Mega(HWW)
+266 EHloh    search.eb 0         5      0-9,23-25           loh       EH Mental
+             scohost.c                                                Measuremen
+             om                                                       ts Yearbk
+267 EHbrd    search.eb 0         5      0-9,23-25           brd       EH Book
+             scohost.c                                                Review
+             om                                                       Digest +
+                                                                      (HWW)
+268 EHcmedm  search.eb 0         5      0-9,23-25           cmedm     EH
+
+                                    Page 15
+             scohost.c                                                MEDLINE
+             om                                                       A&I
+269 EHegi    search.eb 0         5      0-9,23-25           egi       EH Essay
+             scohost.c                                                & General
+             om                                                       Lit A&I
+                                                                      HWW
+270 EHtrh    search.eb 0         5      0-9,23-25           trh       EH
+             scohost.c                                                Teacher
+             om                                                       Ref
+                                                                      Center
+                                                                      (A&I)
+271 EHa6h    search.eb 0         5      0-9,23-25           a6h       EH ATLAS
+             scohost.c                                                Religon
+             om                                                       for Alumni
+272 EH33H    search.eb 0         5      0-9,23-25           33H       EH
+             scohost.c                                                Christian
+             om                                                       Periodical
+                                                                       (A&I)
+273 EJaacn   *.aacnjou 0         5      0-9,23-25                     EJ AA of
+             rnals.org                                                Critical-C
+                                                                      are Nurses
+274 EJaafp   *.aafp.or 0         5      0-9,23-25                     EJ AAFP
+             g
+275 EJapha   *.aphapub 0         5      0-9,23-25                     EJ Amer
+             lications                                                Public
+             .org                                                     Health Ass
+276 EJaapp   *.aappubl 0         5      0-9,23-25                     EJ AA of
+             ications.                                                Pediatrics
+             org
+                                                                      Publicatio
+277 EJaapt1  *.aapt.or 0         5      0-9,23-25                     EJ AA of
+             g                                                        Physics
+                                                                      Teachers
+278 EJtap    *.america 0         5      0-9,23-25                     EJ The
+             magazine.                                                America
+             org                                                      Press
+279 EHopnurl openurl.e 0         5      0-9,23-25                     EH
+             bscohost.                                                openurl.eb
+             com                                                      scohost.co
+                                                                      m
+280 EJbap    *.brillon 0         5      0-9,23-25                     EJ Brill
+             line.com                                                 Academic
+                                                                      Publishers
+281 EJacp3   *.acponli 0         5      0-9,23-25                     EJ ACP
+             ne.org                                                   Online
+                                                                      (EJ)
+282 EJapta1  *.ptjourn 0         5      0-9,23-25                     EJ Amer
+             al.org                                                   Physical
+                                                                      Therapy
+                                                                      Ass 1
+283 EJapta2  *.apta.or 0         5      0-9,23-25                     EJ Amer
+             g                                                        Physical
+                                                                      Therapy
+                                                                      Ass 2
+284 EJucp1   *.aibs.or 0         5      0-9,23-25                     EJ Uni
+             g                                                        California
+                                                                       Press
+285 EJucp2   birenheid 0         5      0-9,23-25                     EJ Uni
+
+                                    Page 16
+             e.com                                                    California
+                                                                       Press 2
+286 EJaip1   *.aip.org 0         5      0-9,23-25                     EJ
+                                                                      American
+                                                                      Insti of
+                                                                      Physics
+287 EJaip2   *physicst 0         5      0-9,23-25                     EJ
+             oday.org                                                 American
+                                                                      Insti of
+                                                                      Physics 2
+288 EHejs2   www-us.eb 0         5      0-9,23-25                     EH
+             sco.com                                                  Electronic
+                                                                       Journals
+                                                                      Servi 2
+289 EHhww    search.eb 0         5      0-9,23-25           HWWRedire EH Wilson
+             scohost.c                                      ct        Web
+             om                                                       Redirect
+290 EJaorn   *aornjour 0         5      0-9,23-25                     EJ Ass of
+             nal.org                                                  Operating
+                                                                      Room Nurse
+291 EJuwp    *.uwpress 0         5      0-9,23-25                     EJ Uni of
+             .org                                                     Wisconsin
+                                                                      Press
+292 EJaa2    *.wipmani 0         5      0-9,23-25                     EJ
+             a.com                                                    Asiatica
+                                                                      Ass 2
+293 EJaa3    *.ip2info 0         5      0-9,23-25                     EJ
+             .org                                                     Asiatica
+                                                                      Ass 3
+294 EJapa    *.asn.au  0         5      0-9,23-25                     EJ
+                                                                      Australian
+
+                                                                      Psysiother
+                                                                      apy As
+295 EJapj    *.asihcop 0         5      0-9,23-25                     EJ Allen
+             eiaonline                                                Press
+             .org                                                     Journals
+296 EHejs3   ejsconten 0         5      0-9,23-25                     EH EJS =
+             t.ebsco.c                                                ejscontent
+             om                                                       .ebsco.com
+297 EJlww1   *.lww.com 0         5      0-9,23-25                     EJ LWW
+                                                                      Asia Pac
+                                                                      J of
+                                                                      Ophthal
+298 EJlww2   *.nurseed 0         5      0-9,23-25                     EJ LWW
+             ucatoronl                                                Nurse
+             ine.com                                                  Educator
+299 EHnlebk  search.eb 0         5      0-9,23-25           nlebk     EH
+             scohost.c                                                NetLibrary
+             om                                                        ebooks
+                                                                      (nlebk)
+300 EJacp4   annals.or 0         5      0-9,23-25                     EJ ACP
+             g                                                        Annals of
+                                                                      Internal
+                                                                      Medi
+301 EJlww3   *.tnpj.co 0         5      0-9,23-25                     EJ LWW
+             m                                                        Nurse
+                                                                      Practition
+
+                                    Page 17
+                                                                      er
+302 EJlww4   *.ccnq.co 0         5      0-9,23-25                     EJ LWW
+             m                                                        Critical
+                                                                      Care Nur
+                                                                      Quart
+303 EHgec    global.eb 0         5      0-9,23-25                     EH
+             sco-conte                                                global.ebs
+             nt.com                                                   co-content
+                                                                      .com
+304 OEeaag   *.oecd-il 0         5      0-9,23-25                     OE
+             ibrary.or                                                Education
+             g                                                        At A
+                                                                      Glance
+305 SRsr     *.statref 0         5      0-9,23-25                     SR STAT
+             .com                                                     Ref
+306 EHhpi    search.eb 0         5      0-9,23-25           hpi       EH HAPI
+             scohost.c
+             om
+307 SStca2   *.charles 0         5      0-9,23-25                     SS-TCA
+             tonco.com                                                The
+                                                                      Charleston
+                                                                       Advisor
+308 EJhealio *.healio. 0         5      0-9,23-25                     EJ Healio
+             com                                                      Nursing
+309 EJjbjs   *.jbjs.or 0         5      0-9,23-25                     EJ Jnl of
+             g                                                        Bone &
+                                                                      Joint
+                                                                      Surgery
+310 JNjama   *.jamanet 0         5      0-9,23-25                     JN JAMA
+             work.com                                                 Network
+311 SStf3    *tandf.co 0         5      0-9,23-25                     SS-TF -
+             .uk                                                      Research
+                                                                      & Higher
+                                                                      Ed
+312 SEcjo3   universit 0         5      0-9,23-25                     SE-CJO
+             ypublishi                                                Uni Pub
+             ngonline.                                                Online
+             org
+313 SEojs    journals. 0         5      0-9,23-25                     SE Open
+             sfu.ca                                                   Journal
+                                                                      Systems
+314 ESsd2    linkinghu 0         5      0-9,23-25                     SS-SD
+             b.elsevie                                                linkinghub
+             r.com                                                    .elsevier.
+                                                                      com
+315 ESsd3    *.science 0         5      0-9,23-25                     SS-SD
+             -direct.c                                                Science-Di
+             om                                                       rect
+316 ESsd4    sciencedi 0         5      0-9,23-25                     SS-SD
+             rect.com                                                 Science
+                                                                      Direct
+317 ESsd5    science-d 0         5      0-9,23-25                     SS-SD
+             irect.com                                                Science-Di
+                                                                      rect
+318 JSucp    *.ucpress 0         5      0-9,23-25                     JS Uni of
+             .net                                                     CA Press
+                                                                      / EJS
+319 SEmit    *.mitpres 0         5      0-9,23-25                     SE -
+
+                                    Page 18
+             sjournals                                                mitpressjo
+             .org                                                     urnals.org
+320 EH4      m.ebscoho 0         5      0-9,23-25                     EH -
+             st.com                                                   m.ebscohos
+                                                                      t.com
+321 FD       digital.f 0         5      0-9,23-25                     FD Films
+             ilms.com                                                 ON Demand
+322 EJrcp    *.rcpsych 0         5      0-9,23-25                     EJ Royal
+             .org                                                     Col of
+                                                                      Psychiatri
+                                                                      sts
+323 SSnyt    *.nytimes 0         5      0-9,23-25                     SS - New
+             .com                                                     York
+                                                                      Times
+                                                                      (testing)
+324 CR2      login.cre 0         5      0-9,23-25                     CR Credo
+             doreferen                                                Reference
+             ce.com                                                   - login
+325 SSha     *.healtha 0         5      0-9,23-25                     SS - HA /
+             ffairs.or                                                Project
+             g                                                        Hope
+326 AJajhp   *.ajhpcon 0         5      0-9,23-25                     Allen
+             tents.org                                                Press
+                                                                      Journals
+327 EJssr    *.biolrep 0         5      0-9,23-25                     EJ
+             rod.org                                                  Society
+                                                                      for Study
+                                                                      of Reprod
+328 SEcjo4   big.facel 0         5      0-9,23-25                     SE-CJO
+             ess.org                                                  pdf
+                                                                      producer
+329 EJcci2   *.btobonl 0         5      0-9,23-25                     EJ B to B
+             ine.com                                                  (CCI)
+330 EJcci1   adage.com 0         5      0-9,23-25                     EJ
+                                                                      Advertisin
+                                                                      g Age
+                                                                      (CCI)
+331 EJalia   *.alia.or 0         5      0-9,23-25                      EJ Aus
+             g.au                                                     Lib & Inf
+                                                                      Ass /
+                                                                      Incite
+332 EJamg1   *.newyork 0         5      0-9,23-25                     EJ AMG
+             er.com                                                   New Yorker
+333 EJamg2   *.wired.c 0         5      0-9,23-25                     EJ AMG
+             om                                                       Wired
+334 EJkie    *.georget 0         5      0-9,23-25                     EJ KIE /
+             own.edu                                                  New
+                                                                      Titles
+                                                                      Bioethics
+335 EJemm    *.minerva 0         5      0-9,23-25                     EJ EMM
+             medica.it                                                Jrnl
+                                                                      Sports
+                                                                      Med & Phy
+                                                                      F
+336 EJcbmw   cbmw.org  0         5      0-9,23-25                     EJ CBMW
+                                                                      Jrnl
+                                                                      Biblical
+                                                                      Man & Wo
+
+                                    Page 19
+337 TChe3    *.chronic 0         5      0-9,23-25                     EJ
+             le.com                                                   Chronicle
+                                                                      Higher Ed
+                                                                      (wild)
+338 EJche2   philanthr 0         5      0-9,23-25                     EJ
+             opy.com                                                  Chronicle
+                                                                      of
+                                                                      Pilanthrop
+                                                                      y
+339 EHeds    search.eb 0         5      0-9,23-25           =eds-live EH EDS
+             scohost.c
+             om
+340 EHejs4   content.e 0         5      0-9,23-25                     EH EJS =
+             bsco.com                                                 content.eb
+                                                                      sco.com
+341 EHedspub search.eb 0         5      0-9,23-25           edspub    EH
+             scohost.c                                                publicatio
+             om                                                       n finder
+342 EHamsci  *.amsciep 0         5      0-9,23-25                     EJ Amons
+             ub.com                                                   Scientific
+                                                                       Publisher
+343 EHtest   search.eb 0         6      0-9,23-25           this_is_a EH
+             scohost.c                                      _test     testing
+             om                                                       for
+                                                                      expired
+                                                                      patron
+344 WKutd    *.uptodat 0         5      0-9,23-25                     WK
+             e.com                                                    UpToDate
+345 EJishib  *.ishib.o 0         5      0-9,23-25                     EJ Int
+             rg                                                       Soc on
+                                                                      Hypertensi
+                                                                      on
+346 DTdtp    *.digital 0         5      0-9,23-25                     DT
+             theatrepl                                                Digital
+             us.com                                                   Theatre
+                                                                      Plus
+347 DTdtp2   digitalth 0         5      0-9,23-25                     DT
+             eatreplus                                                Digital
+             .com                                                     Theatre
+                                                                      Plus 2
+348 CMacm2   *.acm.org 0         5      23-25                         CM ACM
+                                                                      Digital
+                                                                      Library
+349 TChe     chronicle 0         5      0-9,23-25                     TC of
+             .com                                                     Higher
+                                                                      Education,
+                                                                       The Ch
+350 TChe2    *.disqus. 0         5      0-9,23-25                     TC
+             com                                                      *.disqus.c
+                                                                      om
+351 SV4      *.sprn.gr 0         5      0-9,23-25                     SV -
+                                                                      sprn.gr
+352 ISipa    *.ipasour 0         5      0-9,23-25                     IS IPA
+             ce.com                                                   Source
+353 WI5      *.cochran 0         5      0-9,23-25                     WI -
+             elibrary.                                                cochraneli
+             com                                                      brary.com
+354 PQ2      literatur 0         5      0-9,23-25                     PQ
+
+                                    Page 20
+             e.proques                                                literature
+             t.com                                                    .proquest.
+                                                                      com
+355 PQ3      search.pr 0         5      0-9,23-25                     PQ
+             oquest.co                                                search.pro
+             m                                                        quest.com
+356 IBwro    wro.facts 0         5      0-9,23-25                     IB World
+             onfile.co                                                Religions
+             m                                                        Online
+357 IBibl    online.in 0         5      0-9,23-25                     IB
+             fobaselea                                                online.inf
+             rning.com                                                obaselearn
+                                                                      ing.com
+358 HUlcl    *.loebcla 0         5      0-9,23-25                     HU Loeb
+             ssics.com                                                Classic
+                                                                      Lib-Harvar
+                                                                      d UP
+359 TDprem   *.tripdat 0         5      0-9,23-25                     TD TRIP
+             abase.com                                                Database
+                                                                      Premium
+360 EHehes   search.eb 0         5      0-9,23-25           =ehostes- EH
+             scohost.c                                      live      spanish
+             om                                                       profile
+361 EHehost  search.eb 0         5      0-9,23-25           =ehost-li EH ehost
+             scohost.c                                      ve        profile
+             om
+362 EHflip   search.eb 0         5      0-9,23-25           =eon      EH
+             scohost.c                                                flipster.c
+             om                                                       om trial
+363 GS       scholar.g 0         5      0-9,23-25                     GS Google
+             oogle.com                                                Scholar
+364 EHpurl   search.eb 0         5      0-9,23-25           css/      EH purl
+             scohost.c                                                css
+             om
+365 EHpurl2  search.eb 0         5      0-9,23-25           scripts/  EH purl
+             scohost.c                                                scripts
+             om
+366 EHpurl3  search.eb 0         5      0-9,23-25           images/   EH purl
+             scohost.c                                                images
+             om
+367 ESsd6    *.els-cdn 0         5      0-9,23-25                     SS-SD
+             .com                                                     Science-Di
+                                                                      rect
+                                                                      cdn.com
+368 EHahl    search.eb 0         5      0-9,23-25           ahl       EH
+             scohost.c                                                America:
+             om                                                       History &
+                                                                      Life
+369 EHrzh    search.eb 0         5      0-9,23-25           rzh       EH CINAHL
+             scohost.c                                                Plus with
+             om                                                       FT
+370 EJucp3   *.ucpress 0         5      0-9,23-25                     EJ Uni
+             .edu                                                     California
+                                                                       Press 3
+371 EJucp4   *.foxycar 0         5      0-9,23-25                     EJ Uni
+             t.com                                                    California
+                                                                       Press 4
+372 EJucp5   *.cloudfr 0         5      0-9,23-25                     EJ Uni
+
+                                    Page 21
+             ont.net                                                  California
+                                                                       Press 5
+373 EJucp6   *.highwir 0         5      0-9,23-25                     EJ Uni
+             e.org                                                    California
+                                                                       Press 6
+374 ESsd7    admintool 0         5      0-9,23-25                     SS-SD
+             .elsevier                                                admin tool
+             .com
+375 EHgs     search.eb 0         5      0-9,23-25           =crawler  EH Google
+             scohost.c                                                Scholar
+             om
+376 XRdoi2   doi.org   0         5      0-9,23-25                     XR -
+                                                                      doi.org/2
+377 EJapj2   uclajourn 0         5      0-9,23-25                     EJ APJ
+             als.org                                                  UCLA
+378 JSucp4   *.ucpress 0         5      0-9,23-25                     JS 4 Uni
+             journals.                                                of CA
+             com                                                      Press /
+                                                                      EJS
+379 JSucp5   *fy.cloud 0         5      0-9,23-25                     JS 5 Uni
+             front.net                                                of CA
+                                                                      Press /
+                                                                      EJS
+380 EJlww5   journals. 0         5      0-9,23-25                     EJ LWW
+             lww.com                                                  Journals
+381 ALcro    *.cro3.or 0         5      0-9,23-25                     AL -
+             g                                                        CHOICE
+                                                                      Reviews
+                                                                      Online
+382 MLml     *.mangola 0         5      0-9,23-25                     ML Mango
+             nguages.c                                                Languages
+             om
+383 WIrwb    www.refer 0         5      0-9,23-25                     WI
+             encewellb                                                Reference
+             eing.com                                                 Well Being
+384 ALcro2   *.choicer 0         5      0-9,23-25                     AL - new
+             eviews.or                                                CHOICE
+             g                                                        Reviews
+                                                                      Online
+385 OUosch   *.oxfords 0         5      0-9,23-25                     OU
+             cholarshi                                                scholarshi
+             p.com                                                    p.com
+386 OUoupsch *.univers 0         5      0-9,23-25                     OU
+             itypresss                                                university
+             cholarshi                                                pressschol
+             p.com                                                    arship
+387 HOgpl    heinonlin 0         5      0-9,23-25                     HO
+             e.org                                                    HeinOnline
+                                                                       Gov
+                                                                      Politics
+                                                                      Law
+388 DUal     *.dukejou 0         5      0-9,23-25                     DU Duke
+             rnals.org                                                University
+                                                                       Press
+389 BUfacm   *.familya 0         5      0-9,23-25                     BU Baylor
+             ndcommuni                                                University
+             tyministr
+             ies.org
+
+                                    Page 22
+390 MSpub    msp.org   0         5      0-9,23-25                     MS
+                                                                      Mathematic
+                                                                      al
+                                                                      Sciences
+                                                                      Publi
+391 TFhbcp2  hbcponlin 0         5      0-9,23-25                     TF
+             e.com                                                    Handbook
+                                                                      of Chem &
+                                                                      Physics2
+392 JNjama2  jamanetwo 0         5      0-9,23-25                     JN JAMA
+             rk.com                                                   Network
+                                                                      (no *)
+393 NAapu    *.naxosmu 0         5      0-9,23-25                     NA Naxos
+             siclibrar                                                America
+             y.com                                                    MusicLib
+394 AVia     *.ambrose 0         5      0-9,23-25                     AV
+             video.com                                                Ambrose
+                                                                      Video
+                                                                      inst
+                                                                      access
+395 OUoup    *.oup.com 0         5      0-9,23-25                     OU Oxford
+                                                                      Uni Press
+396 SAmit    *.mit.edu 0         5      0-9,23-25                     SA-MIT
+                                                                      Sloan
+                                                                      Management
+                                                                       Review
+397 SAnsta   *.nsta.or 0         5      0-9,23-25                     SA-NSTA
+             g                                                        Journal
+                                                                      of
+                                                                      College
+                                                                      Sci
+398 CGsch    cgscholar 0         5      0-9,23-25                     CG Common
+             .com                                                     Ground
+                                                                      Scholar
+                                                                      https
+399 KSmain   *.kanopys 0         5      0-9,23-25                     KS
+             treaming.                                                kanopystre
+             com                                                      aming.com
+                                                                      https
+400 BCbm     *.bizmine 0         5      0-9,23-25                     BC
+             r.com                                                    bizminor
+401 WKutd    uptodate. 0         5      0-9,23-25                     WK
+             com                                                      uptodate.c
+                                                                      om=
+402 WKutdo   *.uptodat 0         5      0-9,23-25                     WK
+             eonline.c                                                uptodateon
+             om                                                       line.com
+403 WKutdo   uptodateo 0         5      0-9,23-25                     WK
+             nline.com                                                uptodateon
+                                                                      line.com=
+404 WKutdol  *.utdol.c 0         5      0-9,23-25                     WK
+             om                                                       utdol.com
+405 WKutdol  utdol.com 0         5      0-9,23-25                     WK
+                                                                      utdol.com=
+406 FIvlrc   www.fitne 0         5      0-9,23-25                     FI
+             .net                                                     fitne.net
+407 FIvlrc2  *.fitne.n 0         5      0-9,23-25                     FI -
+             et                                                       *.fitne.ne
+
+                                    Page 23
+                                                                      t
+408 CUjuc    *.journal 0         5      0-9,23-25                     CU -
+             s.uchicag                                                Chicago
+             o.edu                                                    Uni
+                                                                      Journals
+409 ESlancet www.thela 0         5      0-9,23-25                     ES
+             ncet.com                                                 thelancet.
+                                                                      com
+410 ESels    secure.jb 0         5      0-9,23-25                     ES
+             s.elsevie                                                *re.jbs.el
+             rhealth.c                                                sevierheal
+             om                                                       th.com
+411 ESels2   *.elsevie 0         5      0-9,23-25                     ES -
+             r.com                                                    *.elsevier
+                                                                      .com
+412 xWKip1   comx      0         5      0-9,23-25                     199.107.23
+                                                                      8.*
+413 xWKip2   comx      0         5      0-9,23-25                     203.163.12
+                                                                      4.*
+414 xWKip3   comx      0         5      0-9,23-25                     195.33.169
+                                                                      .*
+415 xWKip4   comx      0         5      0-9,23-25                     12.130.132
+                                                                      .*
+416 IBib     *.infobas 0         5      0-9,23-25                     IB
+             e.com                                                    online.inf
+                                                                      obase.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Page 24
